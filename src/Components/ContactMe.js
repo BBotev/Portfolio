@@ -9,7 +9,8 @@ function ContactMe() {
 
     emailjs.sendForm('service_jv3rnrp', 'template_r8muo5g', e.target, '2QtQnd5zc3ABDUUUZ')
       .then((result) => {
-          window.location.reload(); 
+        if(alert('Message sent!')){}
+        else    window.location.reload(); 
       }, (error) => {
           console.log(error.text);
       });
