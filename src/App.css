@@ -1,0 +1,11 @@
+.bg-body-tertiary{
+  border-bottom: 1px solid black;
+  background-color: grey !important;
+  position: absolute;
+  width: 100vw;
+}
+  @media (max-width:768px) {
+    .me {
+     margin-left: -80px;
+    }
+  }
