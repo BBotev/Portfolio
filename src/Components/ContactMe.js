@@ -19,8 +19,8 @@ function ContactMe() {
   return (
     <>
     <NavBar/>
-    <div style={{display:'flex',justifyContent:'center',alignItems:'center',height:'100vh',backgroundColor:'#e0e0e0'}}>
-    <div style={{border:'2px solid black',borderRadius:'5px',width:'400px',textAlign:'center',padding:'20px',backgroundColor:'#C6081F'}}>     
+    <div style={{display:'flex',justifyContent:'center',alignItems:'center',minHeight:'100vh',backgroundColor:'#e0e0e0'}}>
+    <div style={{border:'2px solid black',borderRadius:'5px',width:'400px',textAlign:'center',padding:'20px',backgroundColor:'#C6081F'}} className='form'>     
     <form className="contact-form" onSubmit={sendEmail}>
         <h3 style={{color:'white'}}>Contact me</h3>
       <label style={{color:'white'}}>Your Name</label>
