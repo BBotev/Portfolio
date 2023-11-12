@@ -17,7 +17,7 @@ function About(){
      My position there is a CNC operator. My English is at a very low level, even now I use google translator. I am currently studying 
      "business informatics" at the business academy in the city of Svishtov and I am in my third year. I have been doing programming for about a
       year, learning it mainly from videos on the Internet. During this time I realized that this is the job I want to do. 
-      I believe that I could I am developing in this field.
+      I believe that I could I am developing in this field..
     </p>
     </div>
     </Col>
