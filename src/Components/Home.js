@@ -14,7 +14,9 @@ function Home(){
         <div className="me">     
             <h3 style={{marginLeft:'80px',color:'white'}}>Hi,i'm Borislav</h3>
             </div>
-        <Image src={require('../Images/me.png')} fluid style={{marginLeft:'-100px'}}/>
+            <div className="mePic">
+        <Image src={require('../Images/meNoBackground.png')} fluid style={{width:'150px',marginLeft:'60px'}}/>
+            </div>
         </Col> 
        <Col lg={2} md={12} xs={12} style={{marginTop:'125px'}}>     
         <h3 style={{color:'white',marginTop:'60px'}}>About me</h3>
