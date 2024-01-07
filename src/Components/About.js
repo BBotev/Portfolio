@@ -14,7 +14,7 @@ function About(){
     <p style={{color:'white',fontFamily:'mono',fontSize:'35px'}}>About me</p>
     <p style={{margin:'0 auto',fontSize:'30px',color:'white',fontFamily:'mono',marginTop:'10px'}}>
     Hello, my name is Borislav Ognyanov Botev and for 13 years I have been working in a company dealing with the production of joinery.
-     My position there is a CNC operator. My English is at a very low level, even now I use google translator. I am currently studying 
+     My position there is a CNC operator. My English is low level. I am currently studying 
      "business informatics" at the business academy in the city of Svishtov and I am in my third year. I have been doing programming for about a
       year, learning it mainly from videos on the Internet. During this time I realized that this is the job I want to do. 
       I believe that I could I am developing in this field.
